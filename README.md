@@ -1,4 +1,4 @@
-# LeetCode
+# Algorithms and such
 
 Made this repository with the intention of improving my coding in terms of interviews. While solving these problems/algorithms within the folders, my main intention was efficient space / time complexity, as well as to finish the solutions as quickly as possible.
 
